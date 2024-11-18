@@ -19,8 +19,6 @@ To install the necessary dependencies, run:
 ```bash
 pip install watchdog
 
-## File Types Supported
-# Folder Organizer
 
 ## File Types Supported
 
@@ -63,10 +61,3 @@ pip install watchdog
 - .zip
 - .tar.gz
 - .rar
-
-## Setup Instructions
-
-### Clone this repository:
-```bash
-git clone https://github.com/your-username/folder-organizer.git
-cd folder-organizer
