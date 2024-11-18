@@ -21,7 +21,7 @@ pip install watchdog
 ```
 ## File Types Supported
 
-- Audio: '.mp3', '.wav', '.flac', '.aac', etc
-- Video: '.mp4', '.avi', '.mov', '.wmv', etc.
-- Images: '.jpg', '.png', '.gif', '.bmp', '.svg', etc.
+- Audio: `.mp3`, `.wav`, `.flac`, `.aac`, etc
+- Video: `.mp4`, `.avi`, `.mov`, `.wmv`, etc.
+- Images: `.jpg`, `.png`, `.gif`, `.bmp`, `.svg`, etc.
 - Documents:
