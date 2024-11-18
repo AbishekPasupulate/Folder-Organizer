@@ -21,42 +21,16 @@ pip install watchdog
 ```
 ## File Types Supported
 
-### Audio:
-- .mp3
-- .wav
-- .flac
-- .aac
-- etc.
-
-### Video:
-- .mp4
-- .avi
-- .mov
-- .wmv
-- etc.
-
-### Images:
-- .jpg
-- .png
-- .gif
-- .bmp
-- .svg
-- etc.
-
-### Documents:
-- **Word**: .doc, .docx
-- **PDF**: .pdf
-- **Excel**: .xls, .xlsx, .csv
-- **PowerPoint**: .ppt, .pptx
-
-### Executable:
-- .exe
-
-### Source Code:
-- **C**: .c, .h
-- **Python**: .py
-
-### Compressed Files:
-- .zip
-- .tar.gz
-- .rar
+- **Audio**: `.mp3`, `.wav`, `.flac`, `.aac`, etc.
+- **Video**: `.mp4`, `.avi`, `.mov`, `.wmv`, etc.
+- **Images**: `.jpg`, `.png`, `.gif`, `.bmp`, `.svg`, etc.
+- **Documents**:
+  - **Word**: `.doc`, `.docx`
+  - **PDF**: `.pdf`
+  - **Excel**: `.xls`, `.xlsx`, `.csv`
+  - **PowerPoint**: `.ppt`, `.pptx`
+- **Executable**: `.exe`
+- **Source Code**:
+  - **C**: `.c`, `.h`
+  - **Python**: `.py`
+- **Compressed Files**: `.zip`, `.tar.gz`, `.rar`
