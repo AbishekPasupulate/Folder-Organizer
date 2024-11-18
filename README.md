@@ -18,3 +18,55 @@ To install the necessary dependencies, run:
 
 ```bash
 pip install watchdog
+
+## File Types Supported
+# Folder Organizer
+
+## File Types Supported
+
+### Audio:
+- .mp3
+- .wav
+- .flac
+- .aac
+- etc.
+
+### Video:
+- .mp4
+- .avi
+- .mov
+- .wmv
+- etc.
+
+### Images:
+- .jpg
+- .png
+- .gif
+- .bmp
+- .svg
+- etc.
+
+### Documents:
+- **Word**: .doc, .docx
+- **PDF**: .pdf
+- **Excel**: .xls, .xlsx, .csv
+- **PowerPoint**: .ppt, .pptx
+
+### Executable:
+- .exe
+
+### Source Code:
+- **C**: .c, .h
+- **Python**: .py
+
+### Compressed Files:
+- .zip
+- .tar.gz
+- .rar
+
+## Setup Instructions
+
+### Clone this repository:
+```bash
+git clone https://github.com/your-username/folder-organizer.git
+cd folder-organizer
