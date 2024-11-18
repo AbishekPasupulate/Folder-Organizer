@@ -18,7 +18,7 @@ To install the necessary dependencies, run:
 
 ```bash
 pip install watchdog
-
+```
 ## File Types Supported
 
 - Audio: '.mp3', '.wav', '.flac', '.aac', etc
